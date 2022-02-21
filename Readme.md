@@ -8,4 +8,4 @@ What do I code?
 What else do I do?
 - I do Pixelart 
 
-That's basicly it, cya!
+That's basically it, cya!
