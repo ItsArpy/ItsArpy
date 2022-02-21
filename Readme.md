@@ -1,11 +1,12 @@
-Hello, Bonjour and Hallo!
+Hello!
 
-I code btw
-What do I code?
+I code ...
 - Python (especially Pycord)
-- I also do some Unity
+- Unity
 
-What else do I do?
-- I do Pixelart 
+What also ...
+- do Pixelart
+- edit videos
+- design various things
 
 That's basically it, cya!
